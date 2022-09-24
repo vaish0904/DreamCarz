@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.signoutButton{
+  color:black;
+  border: none;
+  border-radius: 8px;
+  border-style: double;
+  padding: 6px 8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+  float: left;
+  display:inline;
+}
+
+.userImage{
+  border-radius: 50%;
+  height: 30px;
+  
+}
+.imgDiv{
+  margin-top:0px;
+}
+
+.Login-component{
+  display: flex;
+  flex-direction: row-reverse;
+  width: fit-content;
+  gap: 1rem;
+  align-items: center;
+  padding-right: 1.5rem;
+}
+.interiorImage{
+  width:70%;
+  height: 40%;
+  top : 10px;
+  bottom:10px;
+}
